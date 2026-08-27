@@ -1,0 +1,47 @@
+# ==============================
+# Python .gitignore
+# ==============================
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+grade-system-venv/
+
+# VS Code settings
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables / secrets
+.env
+.env.*
+*.env
+
+# Python testing/cache
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Build files
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
