@@ -93,6 +93,3 @@ Through this project, I practised:
 * Using formatted output
 * Managing a project with Git and GitHub
 
-## Author
-
-Sarath Kumar AS
